@@ -47,6 +47,10 @@ body{
     padding: 0;
 }
 
+.about-logo__text span {
+    color: #EA625C;
+}
+
 .hours__img {
     max-width: 700px;
     width: 100%;
